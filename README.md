@@ -1,2 +1,5 @@
 # hello-world
-This is my first github project.
+
+Hi folks!
+
+This is Matt. I like learning new things. Right now, I am learning how to use the github to creat new respo.
